@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thanu18shreeMN
+- 👋 Hi, I’m @ThanushreeMN
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning computerscience engineering ( python , full stack web development )
 - 💞️ I’m looking to collaborate on web designing 
