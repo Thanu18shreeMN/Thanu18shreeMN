@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThanushreeMN
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning computerscience engineering ( python , full stack web development )
+- 🌱 Associate Software Engineer
 - 💞️ I’m looking to collaborate on web designing 
 - 📫 How to reach me pull a request 
 
